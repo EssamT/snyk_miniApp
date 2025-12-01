@@ -7,15 +7,15 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "4.19.2",
-    "lodash": "4.17.20",
+    "express": "4.20.0",
+    "lodash": "4.17.21",
     "debug": "2.6.9",
     "body-parser": "1.20.3",
     "minimist": "0.2.4",
     "glob-parent": "5.1.2",
     "adm-zip": "0.5.2",
-    "axios": "0.21.3",
-    "ejs": "3.1.7",
+    "axios": "0.28.0",
+    "ejs": "3.1.10",
     "mime": "1.4.1"
   }
 }
