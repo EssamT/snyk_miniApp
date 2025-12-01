@@ -1,0 +1,21 @@
+{
+  "name": "snyk-demo-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app with vulnerable dependencies for Snyk demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "lodash": "4.17.15",
+    "debug": "2.6.8",
+    "body-parser": "1.18.2",
+    "minimist": "0.0.8",
+    "glob-parent": "5.1.0",
+    "adm-zip": "0.4.7",
+    "axios": "0.18.0",
+    "ejs": "2.5.5",
+    "mime": "1.2.11"
+  }
+}
